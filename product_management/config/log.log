@@ -1,0 +1,30 @@
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T18:02:07+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T18:04:03+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T18:37:00+05:30"}
+{"APIName":"DeleteProduct","error":"record not found","level":"error","msg":"Product does not exist","time":"2020-05-15T18:56:52+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T18:56:58+05:30"}
+{"APIName":"UpdateProduct","error":"record not found","level":"error","msg":"Product does not exist","time":"2020-05-15T19:03:04+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T19:25:48+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T19:28:04+05:30"}
+{"APIName":"GetProductById","error":"record not found","level":"error","msg":"Product does not exist","time":"2020-05-15T19:28:21+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T19:28:27+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T19:38:53+05:30"}
+{"APIName":"CreateProduct","error":"Product with same sku code exists","level":"error","msg":"Product with same sku code exists","time":"2020-05-15T19:43:24+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Missing auth token","time":"2020-05-18T10:58:12+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Invalid authenication token","time":"2020-05-18T10:58:29+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Invalid authenication token","time":"2020-05-18T10:58:45+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Invalid authenication token","time":"2020-05-18T10:58:58+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T10:59:36+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Invalid authenication token","time":"2020-05-18T11:00:44+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T11:02:22+05:30"}
+{"APIName":"Refresh","error":"http: named cookie not present","level":"error","msg":"No cookie found","time":"2020-05-18T12:07:19+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T12:07:29+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T12:11:03+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T12:13:17+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T12:15:36+05:30"}
+{"APIName":"Refresh","error":"signature is invalid","level":"error","msg":"Invalid Request","time":"2020-05-18T12:17:27+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Invalid authenication token","time":"2020-05-18T12:25:59+05:30"}
+{"APIName":"GetProductById","error":"record not found","level":"error","msg":"Product does not exist","time":"2020-05-18T12:27:03+05:30"}
+{"APIName":"JwtAuthentication","level":"error","msg":"Missing auth token","time":"2020-05-18T12:27:08+05:30"}
+{"APIName":"GetProductById","error":"record not found","level":"error","msg":"Product does not exist","time":"2020-05-18T12:27:12+05:30"}
+{"APIName":"Refresh","error":"http: named cookie not present","level":"error","msg":"No cookie found","time":"2020-05-18T18:40:13+05:30"}
